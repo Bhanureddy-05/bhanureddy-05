@@ -1,141 +1,132 @@
 # Hi 👋, I'm Bhanu Reddy
 
-## Data Science | AI/ML Engineer | Python Backend Developer
+## Data Science • AI/ML Engineer • Python Backend Developer
 
-I'm a Computer Science student specializing in Big Data Analytics with a strong interest in Data Science, Machine Learning, Artificial Intelligence, and Backend Development.
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="65%">
+```
+I'm a Computer Science student specializing in **Big Data Analytics**
+with a strong interest in **Data Science, Machine Learning, AI, and
+Python Backend Development**.
 
-I enjoy building practical applications that combine data-driven intelligence with scalable backend systems. My focus is on writing clean, maintainable code while continuously improving my problem-solving skills through real-world projects.
+-   🎓 B.Tech in Computer Science (Big Data Analytics)
+-   📍 Vadodara, India
+-   🌱 Learning MLOps, System Design & DSA
+-   💡 Building practical AI and backend applications
 
----
+### 📫 Connect
 
-## 🚀 About Me
+-   LinkedIn: https://linkedin.com/in/y-bhanu-prakash-reddy-a77b862b3
+-   GitHub: https://github.com/Bhanureddy-05
+-   Email: bhanuprakashreddy1@gmail.com
 
-* 🎓 B.Tech in Computer Science (Big Data Analytics)
-* 📊 Interested in Data Science, Machine Learning & AI
-* ⚙️ Backend Developer using Python & FastAPI
-* 🧠 Learning Deep Learning, Explainable AI, and MLOps
-* 💡 Passionate about solving real-world problems with data
-* 🌱 Currently improving DSA, System Design, and ML Engineering
+```{=html}
+</td>
+```
+```{=html}
+<td width="35%" align="center">
+```
+`<img src="https://github.com/Bhanureddy-05.png" width="220" style="border-radius:50%;" />`{=html}
 
----
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
 
-## 💻 Tech Stack
+------------------------------------------------------------------------
 
-### Programming Languages
+# 👤 About Me
 
-* Python
-* SQL
-* Java
-* C#
+-   Passionate about Data Science, Machine Learning and AI.
+-   Strong foundation in Python, SQL and backend development.
+-   Interested in building scalable AI-powered applications.
+-   Continuously improving DSA, ML Engineering and System Design.
 
-### Data Science & Machine Learning
+------------------------------------------------------------------------
 
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* XGBoost
-* Explainable AI (SHAP, LIME)
-* Data Preprocessing
-* Feature Engineering
-* Model Evaluation
+# 🛠 Tech Stack
 
-### Backend Development
+  Languages   Data Science & ML   Backend             Tools
+  ----------- ------------------- ------------------- ---------
+  Python      NumPy               FastAPI             Git
+  SQL         Pandas              SQLAlchemy          GitHub
+  Java        Scikit-learn        PostgreSQL          VS Code
+  C#          Matplotlib          JWT                 Jupyter
+              SHAP                REST APIs           Postman
+              LIME                Async Programming   Linux
 
-* FastAPI
-* REST APIs
-* SQLAlchemy
-* PostgreSQL
-* JWT Authentication
-* Async Programming
+------------------------------------------------------------------------
 
-### Tools & Platforms
+# 🚀 Projects
 
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
-* Google Colab
-* Postman
-* Docker (Learning)
-* Linux Basics
+## 🛡 Credit Card Fraud Detection
 
----
+Machine learning system for detecting fraudulent credit card
+transactions using Explainable AI.
 
-## 📂 Projects
+**Tech:** Python • Scikit-learn • Pandas • SHAP • LIME • XGBoost
 
-### 🛡️ Credit Card Fraud Detection using Machine Learning & Explainable AI
+------------------------------------------------------------------------
 
-A fraud detection system that predicts fraudulent transactions using machine learning models while providing transparent predictions through Explainable AI.
+## 📈 BHANOVA
 
-**Highlights**
+Personal productivity platform with authentication, goal tracking,
+PostgreSQL database and FastAPI backend.
 
-* Data preprocessing pipeline
-* Feature engineering
-* Fraud prediction models
-* SHAP & LIME explanations
-* Interactive visualization
-* Performance evaluation
+**Tech:** FastAPI • PostgreSQL • SQLAlchemy • JWT • React
 
-**Tech Stack4**
-Python • Scikit-learn • Pandas • NumPy • SHAP • LIME • Matplotlib
+------------------------------------------------------------------------
 
----
+## 🌐 AI-Powered Predictive NOC Platform
 
-### 📈 BHANOVA
+Predictive Network Operations Center platform for anomaly detection and
+failure prediction.
 
-A full-stack productivity platform built to manage goals, habits, tasks, and progress tracking. My primary contribution focused on the Python backend, REST API development, authentication, database design, and backend integration.
+**Tech:** Python • FastAPI • PostgreSQL • Isolation Forest • Random
+Forest
 
-**Backend Highlights**
+------------------------------------------------------------------------
 
-* REST API development with FastAPI
-* JWT Authentication
-* PostgreSQL database integration
-* SQLAlchemy ORM
-* Async backend architecture
+# 📊 GitHub Stats
 
-**Tech Stack**
-
-FastAPI • PostgreSQL • SQLAlchemy • JWT • Python
-
-📊 Areas of Interest
-
-* Data Science
-* Machine Learning
-* Artificial Intelligence
-* Explainable AI
-* Predictive Analytics
-* Backend Development
-* API Development
-* Data Engineering
-* MLOps
-* Cloud Technologies
-
----
-
-## 📈 GitHub Stats
-
+```{=html}
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark" />
-</p>
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhanureddy-05&show_icons=true&theme=tokyonight"/>`{=html}
 
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanureddy-05&layout=compact&theme=tokyonight"/>`{=html}
+
+```{=html}
+</p>
+```
+```{=html}
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark" />
+```
+`<img src="https://streak-stats.demolab.com?user=Bhanureddy-05&theme=tokyonight"/>`{=html}
+
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
-* LinkedIn: https://linkedin.com/in/y-bhanu-prakash-reddy-a77b862b3
+-   💼 LinkedIn: https://linkedin.com/in/y-bhanu-prakash-reddy-a77b862b3
+-   💻 GitHub: https://github.com/Bhanureddy-05
+-   📧 Email: bhanuprakashreddy1@gmail.com
 
+------------------------------------------------------------------------
 
-* GitHub: https://github.com/bhanureddy-05
-* Email: bhanuprakashreddyy1@gmail.com
-
----
-
-## 💬 Motto
-
-> *"Learn continuously. Build consistently. Improve every day."*
+> *Learn continuously. Build consistently. Improve every day.*
