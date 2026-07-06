@@ -62,7 +62,7 @@ I enjoy building practical applications that combine data-driven intelligence wi
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 ### 🛡️ Credit Card Fraud Detection using Machine Learning & Explainable AI
 
