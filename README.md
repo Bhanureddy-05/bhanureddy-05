@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="assets/profile.png" width="170"/>
+<p align="center">
+  <img src="profile.jpg" width="180" alt="Y Bhanu Prakash Reddy">
+</p>
 
 # Hi 👋 I'm Y Bhanu Prakash Reddy
 
