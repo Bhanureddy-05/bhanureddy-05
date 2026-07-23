@@ -1,11 +1,6 @@
-<div align="center">
-
-<img src="assets/banner.png" width="100%" />
-
-<br>
-
-<img src="assets/profile.png" width="180"/>
-
+<p align="center">
+  <img src="assets/profile.png" width="180" alt="Y Bhanu Prakash Reddy">
+</p>
 # Hi 👋 I'm Y Bhanu Prakash Reddy
 
 Passionate about solving real-world problems
