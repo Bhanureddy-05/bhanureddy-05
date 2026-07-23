@@ -1,123 +1,217 @@
-# Hi 👋, I'm Bhanu Reddy
+<div align="center">
 
-<h3 align="center">Data Science • AI/ML Engineer • Python Backend Developer</h3>
+# Hi there 👋, I'm Y Bhanu Prakash Reddy
 
-<p align="center">
-  <img src="assets/profile.png" width="180" alt="Bhanu Reddy"/>
+### Computer Science Undergraduate | Software Engineering Enthusiast | AI & ML Learner
+
+<p>
+Passionate about building scalable software, AI-powered applications, and solving real-world problems through technology.
 </p>
 
-<p align="center">
-  <a href="https://github.com/Bhanureddy-05"><img src="https://img.shields.io/badge/GitHub-Bhanureddy--05-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/y-bhanu-prakash-reddy-a77b862b3"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Engineering+Enthusiast;AI+%26+Machine+Learning+Learner;Backend+Developer;Building+Projects+That+Make+an+Impact" />
+
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Computer Science (Big Data Analytics)
+I'm a **Computer Science undergraduate** pursuing **B.Tech in Computer Science Engineering (Big Data Analytics)**.
 
-📊 Passionate about Data Science, AI/ML and Python Backend Development.
+I enjoy designing and building software that combines **Artificial Intelligence**, **Backend Engineering**, and **Data Science** to solve practical problems.
 
-💡 I enjoy building real-world AI applications and scalable backend systems.
-
-🌱 Currently learning:
-- Data Structures & Algorithms
-- Machine Learning Engineering
-- MLOps
-- System Design
+I'm continuously improving my knowledge of Computer Science fundamentals while building production-ready applications and exploring modern software development practices.
 
 ---
 
-# 🛠 Tech Stack
+# 🎓 Education
 
-## Languages
-- Python
-- SQL
-- Java
-- C#
+**Parul University**
 
-## Data Science & AI
+Bachelor of Technology
+
+Computer Science Engineering (Big Data Analytics)
+
+**Expected Graduation:** 2027
+
+---
+
+# 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Deep Learning
+- Large Language Models (LLMs)
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- MLOps
+- Docker
+- Kubernetes
+- System Design
+- Computer Networks
+- Operating Systems
+- GATE Computer Science
+
+---
+
+# 🚀 Featured Projects
+
+## 🌌 Atlas One
+
+An AI-powered Student Operating System designed to help students manage academics, productivity, health, learning, and career preparation.
+
+**Highlights**
+
+- AI Assistant
+- Analytics Dashboard
+- Goal Tracking
+- Productivity Workspace
+- Health Management
+- GATE Preparation Workspace
+
+**Tech Stack**
+
+FastAPI • React • PostgreSQL • Tailwind CSS
+
+---
+
+## 🤖 Aether NOC
+
+An AI-powered Network Operations Center for intelligent infrastructure monitoring and incident management.
+
+**Highlights**
+
+- AI Incident Analysis
+- Infrastructure Monitoring
+- Log Analytics
+- Alert Management
+- Dashboard Visualization
+
+**Tech Stack**
+
+FastAPI • React • PostgreSQL
+
+---
+
+## 🛡 Bank Fraud Detection
+
+Machine Learning project for detecting fraudulent financial transactions using classification algorithms.
+
+---
+
+## 📰 Fake News Detection
+
+Natural Language Processing project for identifying fake news articles using machine learning.
+
+---
+
+## 🏠 Real Estate AI Assistant
+
+Retrieval-Augmented Generation (RAG) application providing intelligent property recommendations and document-based assistance.
+
+---
+
+# 💻 Tech Stack
+
+### 📊 Data Analysis
 - NumPy
 - Pandas
+- Polars
 - Matplotlib
+- Seaborn
+- Plotly
+
+### 🤖 Machine Learning
 - Scikit-learn
-- XGBoost
-- SHAP
-- LIME
+- Supervised Learning
+- Unsupervised Learning
 - Feature Engineering
 - Model Evaluation
+- Cross Validation
+- Hyperparameter Tuning
+- Pipelines
 
-## Backend
+### 🧠 Deep Learning
+- TensorFlow
+- Keras
+- Neural Networks
+- CNN (Learning)
+- RNN (Learning)
+
+### 💬 Natural Language Processing
+- NLTK
+- spaCy
+- TF-IDF
+- Word Embeddings
+- Text Classification
+
+### 📈 Data Visualization
+- Power BI
+- Tableau (Learning)
+- Plotly
+- Matplotlib
+- Seaborn
+
+### 🗄 Databases
+- SQL
+- PostgreSQL
+- MySQL
+
+### ☁ Data Engineering
+- ETL Concepts
+- Data Cleaning
+- Data Preprocessing
+- Feature Engineering
+
+### 🚀 Backend & APIs
 - FastAPI
 - REST APIs
-- SQLAlchemy
+- Authentication
 - PostgreSQL
-- JWT Authentication
-- Async Programming
 
-## Tools
+### 🌐 Frontend
+- React
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML
+- CSS
+
+### ⚙ Developer Tools
 - Git
 - GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
-- Postman
-- Docker (Learning)
+- Docker
 - Linux
+- VS Code
 
 ---
 
-# 🚀 Projects
+# 🎯 Career Goal
 
-## 🛡 Credit Card Fraud Detection using Machine Learning & Explainable AI
-
-A machine learning application that detects fraudulent credit card transactions and explains predictions using Explainable AI.
-
-**Tech Stack**
-
-`Python` `Scikit-learn` `Pandas` `NumPy` `SHAP` `LIME`
+My goal is to become a Software Engineer specializing in Artificial Intelligence, Backend Engineering, and Machine Learning while continuously strengthening my Computer Science fundamentals through real-world projects and lifelong learning.
 
 ---
 
-## 📈 BHANOVA
+# 📈 GitHub Statistics
 
-A full-stack productivity platform for managing goals, habits and tasks.
+<div align="center">
 
-### My Contributions
-- Designed and developed the backend using FastAPI.
-- Built secure REST APIs.
-- Implemented JWT Authentication.
-- Designed PostgreSQL database schema.
-- Integrated frontend with backend APIs.
-- Deployed the application.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-**Tech Stack**
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 
-`FastAPI` `PostgreSQL` `SQLAlchemy` `JWT` `React`
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🌐 AI-Powered Predictive NOC Platform
+# 📊 Contribution Graph
 
-Predictive Network Operations Center platform for anomaly detection and failure prediction.
+<div align="center">
 
-**Tech Stack**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
 
-`Python` `FastAPI` `Isolation Forest` `Random Forest` `PostgreSQL`
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhanureddy-05&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanureddy-05&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Bhanureddy-05&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
@@ -125,8 +219,14 @@ Predictive Network Operations Center platform for anomaly detection and failure 
 
 - 💼 LinkedIn: https://linkedin.com/in/y-bhanu-prakash-reddy-a77b862b3
 - 💻 GitHub: https://github.com/Bhanureddy-05
-- 📧 Email: bhanuprakashreddy1@gmail.com
+- 📧 Email: bhanureddy1105@gmail.com
 
 ---
 
-> **Learn continuously. Build consistently. Improve every day.**
+<div align="center">
+
+### Thanks for visiting my profile!
+
+*"Always learning. Always building. Always improving."*
+
+</div>
