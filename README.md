@@ -1,12 +1,14 @@
-<p align="center">
-  <img src="assets/profile.png" width="180" alt="Y Bhanu Prakash Reddy">
-</p>
+<div align="center">
+
+<img src="assets/profile.png" width="170"/>
+
 # Hi 👋 I'm Y Bhanu Prakash Reddy
 
-Passionate about solving real-world problems
-using Artificial Intelligence,
-Machine Learning,
-and Software Engineering.
+### Computer Science Engineer
+
+🚀 AI • 🧠 Machine Learning • 📊 Data Science • 💻 Software Engineering
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&center=true&vCenter=true&width=650&lines=Building+AI+Products;Backend+Engineering;FastAPI+Developer;Data+Science+Student;Preparing+for+GATE+2027"/>
 
 </div>
 
@@ -34,15 +36,19 @@ real products that solve meaningful problems.
 - Learning Analytics
 - Generative AI
 
-# 🎓 Education
+## ⚡ Quick Facts
 
-**Parul University**
+🎓 B.Tech CSE (Big Data Analytics)
 
-Bachelor of Technology
+🏫 Parul University
 
-Computer Science Engineering (Big Data Analytics)
+📅 Graduation 2027
 
-**Expected Graduation:** 2027
+📍 India
+
+🎯 Interested in AI, ML, Backend Engineering
+
+📚 Preparing for GATE CS 2027
 
 ---
 
@@ -652,7 +658,11 @@ My goal is to become a Software Engineer specializing in Artificial Intelligence
 
 <div align="center">
 
-### Thanks for visiting my profile!
+⭐ Thanks for visiting!
+
+If you like my work,
+
+leave a ⭐ on my repositories.
 
 *"Always learning. Always building. Always improving."*
 
