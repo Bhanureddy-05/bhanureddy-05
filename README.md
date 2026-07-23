@@ -196,8 +196,6 @@ Atlas One is an intelligent student platform designed to help students manage ac
 └──────────────┘      └────────────────┘      └──────────────┘
 ```
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)
-
 ---
 
 ## 🤖 Aether NOC – AI-Powered Network Operations Center
@@ -318,7 +316,6 @@ Aether NOC is an intelligent Network Operations Center (NOC) platform designed t
                  │ Analytics & Monitoring │
                  └────────────────────────┘
 ```
-![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)
 ---
 
 ## 🛡️ AI-Powered Financial Fraud Detection System
@@ -488,7 +485,6 @@ Fraud / Legitimate
       ▼
 Dashboard + Alerts
 ```
-![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)
 ---
 
 # 🚧 Currently Building
