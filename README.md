@@ -1,7 +1,6 @@
-<img src="profile.jpg"
-     style="border-radius:50%;
-            border:4px solid #58a6ff;
-            box-shadow:0 0 20px #58a6ff;">
+<p align="center">
+    <img src="profile.png" width="180" alt="Profile">
+</p>
 
 # Hi 👋 I'm Y Bhanu Prakash Reddy
 
