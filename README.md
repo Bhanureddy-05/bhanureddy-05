@@ -1,10 +1,14 @@
-<p align="center">
-    <img src="profile.png" width="180" alt="Profile">
-</p>
+<div align="center">
 
-# Hi 👋 I'm Y Bhanu Prakash Reddy
+<img src="./profile.jpg" width="180" alt="Y Bhanu Prakash Reddy"/>
 
-### Computer Science Engineer
+<h1>
+  Hi 👋 I'm <span style="color:#58A6FF;">Y Bhanu Prakash Reddy</span>
+</h1>
+
+<h3>Computer Science Undergraduate</h3>
+
+<p>
 
 🚀 AI • 🧠 Machine Learning • 📊 Data Science • 💻 Software Engineering
 
