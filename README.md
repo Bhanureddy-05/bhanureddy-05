@@ -195,17 +195,6 @@ Atlas One is an intelligent student platform designed to help students manage ac
 │ Recommendations│     │ Progress       │      │ Resources    │
 └──────────────┘      └────────────────┘      └──────────────┘
 ```
-⭐ Status
-Active Development
-
-🧑‍💻 Role
-Full Stack AI Developer
-
-📅 Year
-2026
-
-🌐 Demo
-atlas-one-seven.vercel.app
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)
 
