@@ -1,4 +1,6 @@
-
+<h1>
+  Hi 👋 I'm <span style="color:#58A6FF;">Y Bhanu Prakash Reddy</span>
+</h1>
 
 <h3>Computer Science Undergraduate</h3>
 
