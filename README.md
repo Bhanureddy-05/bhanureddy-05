@@ -1,14 +1,17 @@
 <div align="center">
 
-# Hi there 👋, I'm Y Bhanu Prakash Reddy
+<img src="assets/banner.png" width="100%" />
 
-### Computer Science Undergraduate | Software Engineering Enthusiast | AI & ML Learner
+<br>
 
-<p>
-Passionate about building scalable software, AI-powered applications, and solving real-world problems through technology.
-</p>
+<img src="assets/profile.png" width="180"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Engineering+Enthusiast;AI+%26+Machine+Learning+Learner;Backend+Developer;Building+Projects+That+Make+an+Impact" />
+# Hi 👋 I'm Y Bhanu Prakash Reddy
+
+Passionate about solving real-world problems
+using Artificial Intelligence,
+Machine Learning,
+and Software Engineering.
 
 </div>
 
@@ -16,13 +19,25 @@ Passionate about building scalable software, AI-powered applications, and solvin
 
 # 👨‍💻 About Me
 
-I'm a **Computer Science undergraduate** pursuing **B.Tech in Computer Science Engineering (Big Data Analytics)**.
+I enjoy transforming ideas into real-world software by combining
+Artificial Intelligence, Data Science, and scalable backend systems.
 
-I enjoy designing and building software that combines **Artificial Intelligence**, **Backend Engineering**, and **Data Science** to solve practical problems.
+My interests span from machine learning and predictive analytics
+to software architecture and modern backend development.
 
-I'm continuously improving my knowledge of Computer Science fundamentals while building production-ready applications and exploring modern software development practices.
-
+I believe the best way to learn Computer Science is by building
+real products that solve meaningful problems.
 ---
+
+# 🧠 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Backend Engineering
+- Software Engineering
+- Learning Analytics
+- Generative AI
 
 # 🎓 Education
 
@@ -73,23 +88,61 @@ Atlas One is an intelligent student platform designed to help students manage ac
 
 ### 🧠 Technologies & Concepts
 
-- Artificial Intelligence (AI)
-- Machine Learning (ML)
-- Data Science
-- Learning Analytics
-- Predictive Analytics
-- Recommendation Systems
-- FastAPI
-- Python
-- PostgreSQL
-- SQLAlchemy
-- REST APIs
-- JWT Authentication
-- React
-- TypeScript
-- Tailwind CSS
-- Docker
-- Git
+#### 🤖 Artificial Intelligence
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Learning Analytics](https://img.shields.io/badge/Learning%20Analytics-00ACC1?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-43A047?style=for-the-badge)
+![Recommendation System](https://img.shields.io/badge/Recommendation%20System-E53935?style=for-the-badge)
+
+---
+
+#### 📊 Data Science
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0288D1?style=for-the-badge)
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-6A1B9A?style=for-the-badge)
+
+---
+
+#### ⚙️ Backend Engineering
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+---
+
+#### 🗄️ Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database%20Design-3949AB?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-00897B?style=for-the-badge)
+
+---
+
+#### 💻 Software Engineering
+
+- Modular Architecture
+- Clean Code Principles
+- Scalable Backend Development
+- Authentication & Authorization
+- API Design
+- Software Design Patterns
+
+---
+
+#### ☁️ DevOps & Deployment
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 📖 What I Learned
 
@@ -141,6 +194,20 @@ Atlas One is an intelligent student platform designed to help students manage ac
 │ Recommendations│     │ Progress       │      │ Resources    │
 └──────────────┘      └────────────────┘      └──────────────┘
 ```
+⭐ Status
+Active Development
+
+🧑‍💻 Role
+Full Stack AI Developer
+
+📅 Year
+2026
+
+🌐 Demo
+atlas-one-seven.vercel.app
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)
+
 ---
 
 ## 🤖 Aether NOC – AI-Powered Network Operations Center
@@ -157,42 +224,54 @@ Aether NOC is an intelligent Network Operations Center (NOC) platform designed t
 - 📡 Network Performance Monitoring
 - 🔐 Secure Authentication & Role-Based Access Control
 - 📱 Responsive Web Dashboard
-
 ### 🧠 Technologies & Concepts
 
-#### Artificial Intelligence
-- Artificial Intelligence (AI)
-- Machine Learning (ML)
-- Predictive Analytics
-- Anomaly Detection
-- Intelligent Monitoring
+#### 🤖 Artificial Intelligence
 
-#### Backend Engineering
-- Python
-- FastAPI
-- REST APIs
-- SQLAlchemy
-- JWT Authentication
-- Asynchronous Programming
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-00ACC1?style=for-the-badge)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-E53935?style=for-the-badge)
+![Intelligent Monitoring](https://img.shields.io/badge/Intelligent%20Monitoring-43A047?style=for-the-badge)
 
-#### Database
-- PostgreSQL
-- Database Design
-- Query Optimization
+---
 
-#### Software Engineering
-- Modular Architecture
-- API Design
-- Authentication & Authorization
-- Scalable Backend Development
-- Clean Code Principles
+#### ⚙️ Backend Engineering
 
-#### DevOps & Deployment
-- Docker
-- Git
-- GitHub
-- Render
-- Vercel
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Async Programming](https://img.shields.io/badge/Async%20Programming-5C6BC0?style=for-the-badge)
+
+---
+
+#### 🗄️ Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database%20Design-3949AB?style=for-the-badge)
+![Query Optimization](https://img.shields.io/badge/Query%20Optimization-00897B?style=for-the-badge)
+
+---
+
+#### 💻 Software Engineering
+
+![Modular Architecture](https://img.shields.io/badge/Modular%20Architecture-5E35B1?style=for-the-badge)
+![API Design](https://img.shields.io/badge/API%20Design-039BE5?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Authentication%20%26%20Authorization-546E7A?style=for-the-badge)
+![Scalable Backend](https://img.shields.io/badge/Scalable%20Backend-FB8C00?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-2E7D32?style=for-the-badge)
+
+---
+
+#### ☁️ DevOps & Deployment
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 📖 What I Learned
 
@@ -249,7 +328,7 @@ Aether NOC is an intelligent Network Operations Center (NOC) platform designed t
                  │ Analytics & Monitoring │
                  └────────────────────────┘
 ```
-
+![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)
 ---
 
 ## 🛡️ AI-Powered Financial Fraud Detection System
@@ -272,55 +351,76 @@ An intelligent fraud detection system that leverages **Artificial Intelligence**
 
 ### 🧠 Technologies & Concepts
 
-#### Artificial Intelligence
-- Artificial Intelligence (AI)
-- Machine Learning (ML)
-- Predictive Analytics
-- Anomaly Detection
-- Intelligent Decision Support
+#### 🤖 Artificial Intelligence
 
-#### Data Science
-- Data Analysis
-- Data Cleaning
-- Feature Engineering
-- Feature Selection
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-00ACC1?style=for-the-badge)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-E53935?style=for-the-badge)
+![Fraud Detection](https://img.shields.io/badge/Fraud%20Detection-43A047?style=for-the-badge)
 
-#### Machine Learning
-- Scikit-learn
-- Classification Models
-- Model Training
-- Model Evaluation
-- Hyperparameter Tuning
-- Cross Validation
+---
 
-#### Programming
-- Python
+#### 📊 Data Science
 
-#### Data Processing
-- NumPy
-- Pandas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-6A1B9A?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-0288D1?style=for-the-badge)
 
-#### Data Visualization
-- Matplotlib
-- Seaborn
-- Plotly
+---
 
-#### Backend
-- FastAPI
-- REST APIs
+#### 🤖 Machine Learning
 
-#### Database
-- PostgreSQL
-- SQL
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Classification](https://img.shields.io/badge/Classification-5E35B1?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-00897B?style=for-the-badge)
+![Cross Validation](https://img.shields.io/badge/Cross%20Validation-3949AB?style=for-the-badge)
+![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-D81B60?style=for-the-badge)
 
-#### Development Tools
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+---
 
+#### 📈 Data Visualization
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+---
+
+#### ⚙️ Backend Engineering
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+---
+
+#### 🗄️ Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+#### 💻 Software Engineering
+
+- Modular Machine Learning Pipeline
+- Data Preprocessing Pipeline
+- Feature Engineering Workflow
+- Model Evaluation & Validation
+- REST API Design
+- Clean Code Principles
+- Scalable Backend Development
+
+---
+
+#### ☁️ Development & Deployment
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
 ### 📖 What I Learned
@@ -398,86 +498,122 @@ Fraud / Legitimate
       ▼
 Dashboard + Alerts
 ```
+![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)
 ---
 
-## 🏠 Real Estate AI Assistant
+# 🚧 Currently Building
 
-Retrieval-Augmented Generation (RAG) application providing intelligent property recommendations and document-based assistance.
+## 🏡 PropertyMind AI
+
+An AI-powered real estate platform that helps users discover properties through natural language conversations, intelligent recommendations, and Retrieval-Augmented Generation (RAG).
+
+### 🚀 Planned Features
+
+- 🤖 AI Property Assistant
+- 🏠 Smart Property Search
+- 🔍 RAG-powered Knowledge Base
+- 💬 LLM Chat Interface
+- ❤️ Personalized Property Recommendations
+- 📍 Location Intelligence
+- 📊 Property Analytics Dashboard
+- 📅 Property Visit Scheduling
+- 🔐 Secure Authentication
+
+### 🛠 Planned Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+---
+
+# 🛠 Tech Stack
+
+## 🤖 Artificial Intelligence
+
+TensorFlow
+
+Scikit-learn
+
+Generative AI
+
+RAG
+
+Machine Learning
 
 ---
 
-# 💻 Tech Stack
+## 📊 Data Science
 
-### 📊 Data Analysis
-- NumPy
-- Pandas
-- Polars
-- Matplotlib
-- Seaborn
-- Plotly
+Python
 
-### 🤖 Machine Learning
-- Scikit-learn
-- Supervised Learning
-- Unsupervised Learning
-- Feature Engineering
-- Model Evaluation
-- Cross Validation
-- Hyperparameter Tuning
-- Pipelines
+NumPy
 
-### 🧠 Deep Learning
-- TensorFlow
-- Keras
-- Neural Networks
-- CNN (Learning)
-- RNN (Learning)
+Pandas
 
-### 💬 Natural Language Processing
-- NLTK
-- spaCy
-- TF-IDF
-- Word Embeddings
-- Text Classification
+Matplotlib
 
-### 📈 Data Visualization
-- Power BI
-- Tableau (Learning)
-- Plotly
-- Matplotlib
-- Seaborn
+Seaborn
 
-### 🗄 Databases
-- SQL
-- PostgreSQL
-- MySQL
+Plotly
 
-### ☁ Data Engineering
-- ETL Concepts
-- Data Cleaning
-- Data Preprocessing
-- Feature Engineering
+Statistics
 
-### 🚀 Backend & APIs
-- FastAPI
-- REST APIs
-- Authentication
-- PostgreSQL
+EDA
 
-### 🌐 Frontend
-- React
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- HTML
-- CSS
+---
 
-### ⚙ Developer Tools
-- Git
-- GitHub
-- Docker
-- Linux
-- VS Code
+## ⚙ Backend Engineering
+
+FastAPI
+
+REST APIs
+
+SQLAlchemy
+
+JWT
+
+Python
+
+---
+
+## 🗄 Database
+
+PostgreSQL
+
+MySQL
+
+SQLite
+
+---
+
+## ☁ Cloud & DevOps
+
+Docker
+
+Git
+
+GitHub
+
+Render
+
+Vercel
+
+---
+
+## 🛠 Tools
+
+VS Code
+
+Jupyter Notebook
+
+Google Colab
+
+Postman
 
 ---
 
